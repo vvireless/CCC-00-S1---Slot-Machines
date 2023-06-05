@@ -1,3 +1,6 @@
+# CCC question
+# By Vivian Y
+
 quarters = int(input(""))
 g1 = int(input(""))
 g2 = int(input(""))
